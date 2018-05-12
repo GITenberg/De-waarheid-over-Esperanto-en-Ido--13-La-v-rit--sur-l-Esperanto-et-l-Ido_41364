@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/41141
     wikipedia: http://eo.wikipedia.org/wiki/Antoon_Jozef_Witteryck
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41364#De-waarheid-over-Esperanto-en-Ido--13-La-v-rit--sur-l-Esperanto-et-l-Ido
 gutenberg_bookshelf:
 - Esperanto
 - FR Education et Enseignement
